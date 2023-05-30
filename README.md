@@ -1,4 +1,4 @@
-# Numerical Methos and Calculus Numerical
+# Numerical methods and calculus numerical
 
 Repositório focado nas implementações dos algoritmos de cálculo numérico.
 
