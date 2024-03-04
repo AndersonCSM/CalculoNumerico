@@ -10,8 +10,8 @@ def euler_method(ed, y0, t0, n, h):
     - h: Tamanho do passo
 
     Retorna:
-    - x: Lista dos valores de x calculados
-    - t: Lista dos valores de t calculados
+    - x: Lista dos valores de t calculados
+    - y: Lista dos valores de y calculados
     """
 
     t = [t0]  # adiciona o ponto inicial a lista
