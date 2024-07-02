@@ -1,4 +1,3 @@
-# English
 ## About
 repository focused on implementations of algorithms studied in the Numerical Calculus discipline.
 
@@ -20,7 +19,6 @@ The repository features different numerical methods such as:
 - Contact email: andersoncarlos799@gmail.com
 
 ---
-# Português Brasil
 ## Sobre
 repositório focado em implementações de algoritmos estudados na disciplina de Cálculo Numérico.
 
